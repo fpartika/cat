@@ -28,7 +28,7 @@ Additionally there is a check in the main loop for checking if the button is pre
 My system performs about .5 FPS what is enough for the task but not a good rate if you need to monitor quick changes, but again this was enough for the purpose of the project. 
 
 Additional enhancements are possible to enhance performance, such as:
-Split interference in a different threat 
-Utilize a faster SD card
-Raspberry 4
+Split interference in a different threat,
+Utilize a faster SD card,
+Raspberry 4,
 Use another network architecture as faster R-CNN, Yolo
